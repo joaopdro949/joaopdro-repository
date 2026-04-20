@@ -1,2 +1,2 @@
 # joaopdro-repository
-primeiro repositorio
+primeiro-repositorio
